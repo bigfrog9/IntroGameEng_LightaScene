@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{954700DD-9F2A-8B01-6F40-6C8BBD1F2BD3}</ProjectGuid>
+    <ProjectGuid>{75A12BB1-802D-F6F8-DCE0-570542DD839D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\Materials\WallPaint\Texture Credit.cs" />
     <Compile Include="Assets\Prefabs\FPS Controller\Controller.cs" />
+    <Compile Include="Assets\Scripts\Trigger1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Z_External Assets\info_morgueroom.txt" />
